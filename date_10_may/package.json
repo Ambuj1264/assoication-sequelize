@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cloudinary": "^1.36.4",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "jsonwebtoken": "^9.0.0",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.3.0",
+    "nodemailer": "^6.9.1",
+    "nodemon": "^2.0.22",
+    "sequelize": "^6.31.1"
+  },
+  "name": "date_09_may",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
