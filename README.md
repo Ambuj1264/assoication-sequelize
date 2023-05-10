@@ -1,0 +1,1 @@
+# assoication-sequelize
